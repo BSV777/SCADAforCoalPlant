@@ -1,0 +1,12 @@
+BAT WMFFILES bat.wmf
+CONV1_ON WMFFILES conv1_on.wmf
+CONV1_OFF WMFFILES conv1_off.wmf
+CONV2_ON WMFFILES conv2_on.wmf
+CONV2_OFF WMFFILES conv2_off.wmf
+COAL WMFFILES coal.wmf
+BAT WMFFILES bat.wmf
+CONV1_ON WMFFILES conv1_on.wmf
+CONV1_OFF WMFFILES conv1_off.wmf
+CONV2_ON WMFFILES conv2_on.wmf
+CONV2_OFF WMFFILES conv2_off.wmf
+COAL WMFFILES coal.wmf
